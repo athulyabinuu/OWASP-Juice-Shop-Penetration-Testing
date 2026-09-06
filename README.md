@@ -86,6 +86,75 @@ The assessment followed these phases:
 6. Evidence Collection
 7. Reporting
 
+## Evidence Screenshots
+
+All screenshots collected during the assessment are available in the `screenshots/` directory.
+
+### Setup
+
+#### OWASP Juice Shop Setup
+
+![Setup](screenshots/1.png)
+
+#### OWASP Juice Shop Application
+
+![OWASP Juice Shop](screenshots/2.png)
+
+---
+
+### Finding F-01
+
+![F-01 Evidence 1](screenshots/f1%201.png)
+
+![F-01 Evidence 2](screenshots/f1%202.png)
+
+---
+
+### Additional Evidence
+
+The following screenshots document the testing and validation performed during the assessment:
+
+![Evidence](screenshots/f101.png)
+
+![Evidence](screenshots/f102.png)
+
+![Evidence](screenshots/f111.png)
+
+![Evidence](screenshots/f121.png)
+
+![Evidence](screenshots/f122.png)
+
+![Evidence](screenshots/f131.png)
+
+![Evidence](screenshots/f23.png)
+
+![Evidence](screenshots/f41.png)
+
+![Evidence](screenshots/f42.png)
+
+![Evidence](screenshots/f51.png)
+
+![Evidence](screenshots/f52.png)
+
+![Evidence](screenshots/f61.png)
+
+![Evidence](screenshots/f62.png)
+
+![Evidence](screenshots/f63.png)
+
+![Evidence](screenshots/f71.png)
+
+![Evidence](screenshots/f72.png)
+
+![Evidence](screenshots/f81.png)
+
+![Evidence](screenshots/f82.png)
+
+![Evidence](screenshots/f83.png)
+
+![Evidence](screenshots/f91.png)
+
+![Evidence](screenshots/f92.png)
 ## 📄 Project Report
 
 The complete penetration-testing report is available here:
